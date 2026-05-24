@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Pet Care Service</title>
+    <style>
+        body{
+            font-family: Arial;
+            padding:20px;
+        }
+        header{
+            background-color: #d0d058;
+            color:#000;
+            text-align: center;
+            padding:30px;
+        }
+        ul{
+            
+            text-align: center;
+            background-color: #78be20;            
+        }
+        ul li{
+            display:inline-block;
+            margin:auto;
+            padding:20px;
+        }
+        ul a{
+            padding:30px;
+            color:#000;
+            font-size:20;
+        }
+        ul li:hover{
+            background-color: #ffd100;
+        }
+        ul a:hover{
+            color:#614d00;
+        }
+    </style>
+</head>
+<body>
+    <header> 
+        <svg width="60" height="60">
+        <circle cx="30" cy="30" r="28" fill="#78b320"></circle>
+        <text x="26" y="39" fill="#614d00" font-size:20>P</text>
+        </svg>
+        <h1>Pet Care Service</h1>
+    </header>
+<ul>
+    <li><a href="#Home">Home</a></li>
+    <li><a href="#Service">Service</a></li>
+    <li><a href="#About us">About us</a></li>
+    <li><a href="Contact">Contact</a></li>
+</ul>
+
+<h2>CHÀO MỪNG ĐẾN VỚI TRANG WEB CHĂM SÓC THÚ CƯNG</h2>
+<article>
+    <p>Thành lập vào <strong>năm 2020</strong>, chúng tôi đem đến vô vàn dịch vụ cho những người bạn có lông của bạn</p>
+    <p>Rất nhiều dịch vụ như: Cạo lông, Tắm rửa, Khám chữa bệnh....</p>
+    <h1>Rất mong được đem đến cho bạn trải nghiệm tốt nhất</h1>
+</article>
+</body>
+</html>
